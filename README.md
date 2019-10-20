@@ -11,6 +11,8 @@ Vanilla Tweaks Ported to Bedrock!
 
 [Unbundled Hay Bales](https://www.dropbox.com/s/d5i8lnnj1tug1bn/unbundled_hay_bales.mcpack?dl=0) - Gets rid of the red strings around Hay Bales
 
+Solid Slime - available when block models can be changed with add-ons
+
 [Sideways Nuggets](https://www.dropbox.com/s/e9sjzrktkvm9f2u/sideways_nuggets.mcpack?dl=0) - Rotates Iron Nuggets to be consistent with the other nugget textures
 
 [Plain Leather Armor](https://www.dropbox.com/s/dlv1a4yeolu4utt/plain_leather_armor.mcpack?dl=0) - Removes brown stripes from colored Leather Armor
@@ -18,6 +20,8 @@ Vanilla Tweaks Ported to Bedrock!
 [Red Iron Golem Flowers](https://www.dropbox.com/s/syt6m3frq7x7wl0/red_iron_golem_flowers.mcpack?dl=0) - Changes the yellow flowers on the Iron Golem skin to red ones
 
 [Alternate Particles](https://www.dropbox.com/s/z5t37l9du6h483a/alternate_particles.mcpack?dl=0) - Changes the texture of Enchantment Table particles to make them more colorful
+
+Endless End Rods - available when block models can be changed with add-ons
 
 [Less Purple Purpur](https://www.dropbox.com/s/9nikadzptxq2f9h/less_purple_purpur.mcpack?dl=0) - Changes the texture of Purpur Blocks to make them more neutral
 
