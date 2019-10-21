@@ -1,9 +1,17 @@
 # BedrockVanillaTweaks
 Vanilla Tweaks Ported to Bedrock!
 
+## How To Download
+
+- Tap on the name of the tweak you'd like to download. (only blue ones have a link attached to them, the rest have an explanation as to why they aren't available)
+- The name will take you to a dropbox link, if prompted, continue to the website instead of the app
+- From there choose direct download and open the .mcpack file in Minecraft
+- Pay attention to which tweaks arent compatible with each other!
+- Profit
+
 ## Aesthetic
 
-[Black Nether Bricks](https://www.dropbox.com/s/vy0bvvxoog1ts7c/black_nether_bricks.mcpack?dl=0) - Changes the texture of Nether Bricks to make them black
+[Black Nether Bricks](https://www.dropbox.com/s/vy0bvvxoog1ts7c/black_nether_bricks.mcpack?dl=0) - Changes the texture of Nether Bricks to make them black (_Not Compatible With: Brighter Nether, Ore Borders, and Uniform Ores_)
 
 [Cherry Picking](https://www.dropbox.com/s/g00no9m1ixod8tl/cherry_picking.mcpack?dl=0) - Changes the texture of cake to remove the large cherry in the center
 
@@ -27,7 +35,29 @@ Endless End Rods - available when block models can be changed with add-ons
 
 ## Terrain
 
-coming soon
+[Better Bedrock](https://www.dropbox.com/s/aqb8sz578sou4vv/better_bedrock.mcpack?dl=0) - Changes the texture of Bedrock to be less noisy and more natural-looking
+
+[Brighter Nether](https://www.dropbox.com/s/hyqqsiucez17cwm/brighter_nether.mcpack?dl=0) - Brightens the texture of blocks commonly found in the Nether (_Not Compatible With: Black Nether Bricks_)
+
+Borderless Snow - Surprisingly, this doesn't change any textures, also snow doesn't have any borders. If anyone knows what this does please let me know.
+
+[Circular Sun and Moon](https://www.dropbox.com/s/iq0pttamr2wqm11/circular_sumoon.mcpack?dl=0) - Replaces the default square sun and moon, with a circular sun and moon
+
+[Clearer Water](https://www.dropbox.com/s/ubrz8kmta6wdnms/clearer_water.mcpack?dl=0) - Makes water clearer
+
+[Smoother Oak Log](https://www.dropbox.com/s/souixd2oxb54tl3/smooth_oak_log.mcpack?dl=0) - Smoothens the texture of oak logs to make them less sharp
+
+[Smoother Stones](https://www.dropbox.com/s/7yqcmh4cee0lm0s/smooth_stones.mcpack?dl=0) - Smoothens the texture of Diorite and Granite to make them less noisy and more tolerable
+
+[Pebble-less Coarse Dirt](https://www.dropbox.com/s/tg74zkfpmisdkm2/nopebblecoarse.mcpack?dl=0) - Gets rid of the white pebbles in Coarse Dirt
+
+[Pebble-less Dirt](https://www.dropbox.com/s/moie8kjiqrzr49b/nopebbledirt.mcpack?dl=0) - Gets rid of the white pebbles in Dirt
+
+[Ore Borders](https://www.dropbox.com/s/nvz9g14g3vdins0/ore_borders.mcpack?dl=0) - Places a border around ores for easier visibility within caves (_Not Compatible With: Uniform Ores, Brighter Nether_)
+
+[Uniform Ores](https://www.dropbox.com/s/bvzzoehd8w2hx2m/uniform_ores.mcpack?dl=0) - Changes the Lapis, Emerald, and Quartz ores to have the same shape as the rest of the ores
+
+[Whiter Snow](https://www.dropbox.com/s/sokwtovx3vhza0d/white_snow.mcpack?dl=0) - Removes the blue tint from snow
 
 ## Lower and Sides
 
@@ -56,3 +86,6 @@ coming soon
 ## To-Do
 
 - make alternate versions on textures that arent compatible with other textures to make them compatible
+- add a project page
+- add previews of all tweaks
+- the rest of the tweaks
