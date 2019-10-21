@@ -2,6 +2,7 @@
 Vanilla Tweaks Ported to Bedrock!
 
 ![Logo](BVTlogo.png)
+(not an official logo)
 
 ## How To Download
 
