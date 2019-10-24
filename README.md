@@ -65,25 +65,25 @@ Borderless Snow - Surprisingly, this doesn't change any textures, also snow does
 
 ## Lower and Sides
 
-[Grass Sides](https://www.dropbox.com/s/7iukkl5w0n91dvd/grass_sides.mcpack?dl=0) - Completely covers the sides of Grass Blocks to provide a smoother and greener landscape
+[Grass Sides](https://www.dropbox.com/s/7iukkl5w0n91dvd/grass_sides.mcpack?dl=0) - Completely covers the sides of Grass Blocks to provide a smoother and greener landscape (_Not Compatible With: Lower Grass, Pebble-less Dirt_)
 
-[Lower Grass](https://www.dropbox.com/s/s202r60deao8zi5/lower_grass.mcpack?dl=0) - Lowers the sides of Grass Blocks to provide a smoother and greener landscape
+[Lower Grass](https://www.dropbox.com/s/s202r60deao8zi5/lower_grass.mcpack?dl=0) - Lowers the sides of Grass Blocks to provide a smoother and greener landscape (_Not Compatible With: Grass Sides, Pebble-less Dirt_)
 
-[Mycelium Sides](https://www.dropbox.com/s/fmos8n7w4n99416/mycelium_sides.mcpack?dl=0) - Completely covers the sides of Mycelium Blocks to provide a smoother and more consistent landscape
+[Mycelium Sides](https://www.dropbox.com/s/fmos8n7w4n99416/mycelium_sides.mcpack?dl=0) - Completely covers the sides of Mycelium Blocks to provide a smoother and more consistent landscape (_Not Compatible With: Lower Mycelium, Pebble-less Dirt_)
 
-[Lower Mycelium](https://www.dropbox.com/s/y7fm3du2fc7opp2/lower_mycelium.mcpack?dl=0) - Lowers the sides of Mycelium Blocks to provide a smoother and more consistent landscape
+[Lower Mycelium](https://www.dropbox.com/s/y7fm3du2fc7opp2/lower_mycelium.mcpack?dl=0) - Lowers the sides of Mycelium Blocks to provide a smoother and more consistent landscape (_Not Compatible With: Mycelium Sides, Pebble-less Dirt_)
 
-[Path Sides](https://www.dropbox.com/s/9zun8b5dpexpj81/path_sides.mcpack?dl=0) - Completely covers the sides of Path Blocks to provide a smoother-looking pathway
+[Path Sides](https://www.dropbox.com/s/9zun8b5dpexpj81/path_sides.mcpack?dl=0) - Completely covers the sides of Path Blocks to provide a smoother-looking pathway (_Not Compatible With: Lower Paths, Pebble-less Dirt_)
 
-[Lower Paths](https://www.dropbox.com/s/7tgxqfiaonnm1dz/lower_paths.mcpack?dl=0) - Lowers the sides of Path Blocks to provide a smoother pathway
+[Lower Paths](https://www.dropbox.com/s/7tgxqfiaonnm1dz/lower_paths.mcpack?dl=0) - Lowers the sides of Path Blocks to provide a smoother pathway (_Not Compatible With: Path Sides, Pebble-less Dirt_)
 
-[Podzol Sides](https://www.dropbox.com/s/dkubjxfz9ap5a3c/podzol_sides.mcpack?dl=0) - Completely covers the sides of Podzol Blocks to provide a smoother and more consistent landscape
+[Podzol Sides](https://www.dropbox.com/s/dkubjxfz9ap5a3c/podzol_sides.mcpack?dl=0) - Completely covers the sides of Podzol Blocks to provide a smoother and more consistent landscape (_Not Compatible With: Lower Podzol, Pebble-less Dirt_)
 
-[Lower Podzol](https://www.dropbox.com/s/4xh5yfag43noyqe/lower_podzol.mcpack?dl=0) - Lowers the sides of Podzol Blocks to provide a smoother and more consistent landscape
+[Lower Podzol](https://www.dropbox.com/s/4xh5yfag43noyqe/lower_podzol.mcpack?dl=0) - Lowers the sides of Podzol Blocks to provide a smoother and more consistent landscape (_Not Compatible With: Podzol Sides, Pebble-less Dirt_)
 
-[Snow Sides](https://www.dropbox.com/s/ri2mvbwqk5zn8w5/snow_sides.mcpack?dl=0) - Completely covers the sides of Grass Blocks to provide a smoother and whiter snowy landscape
+[Snow Sides](https://www.dropbox.com/s/ri2mvbwqk5zn8w5/snow_sides.mcpack?dl=0) - Completely covers the sides of Grass Blocks to provide a smoother and whiter snowy landscape (_Not Compatible With: Lower Snow, Pebble-less Dirt_)
 
-[Lower Snow](https://www.dropbox.com/s/jn9pt15hkd0uv9h/lower_snow.mcpack?dl=0) - Lowers the sides of Grass Blocks to provide a smoother and whiter snowy landscape
+[Lower Snow](https://www.dropbox.com/s/jn9pt15hkd0uv9h/lower_snow.mcpack?dl=0) - Lowers the sides of Grass Blocks to provide a smoother and whiter snowy landscape (_Not Compatible With: Snow Sides, Pebble-less Dirt_)
 
 [Shorter Grass](https://www.dropbox.com/s/k2etd8toujbk3ha/short_grass.mcpack?dl=0) - Makes Grass slightly shorter
 
