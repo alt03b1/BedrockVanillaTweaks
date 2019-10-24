@@ -67,7 +67,7 @@ Borderless Snow - Surprisingly, this doesn't change any textures, also snow does
 
 [Grass Sides](https://www.dropbox.com/s/7iukkl5w0n91dvd/grass_sides.mcpack?dl=0) - Completely covers the sides of Grass Blocks to provide a smoother and greener landscape
 
-Lower Grass - Cannot figure out how to properly texture grass sides
+[Lower Grass](https://www.dropbox.com/s/s202r60deao8zi5/lower_grass.mcpack?dl=0) - Lowers the sides of Grass Blocks to provide a smoother and greener landscape
 
 [Mycelium Sides](https://www.dropbox.com/s/fmos8n7w4n99416/mycelium_sides.mcpack?dl=0) - Completely covers the sides of Mycelium Blocks to provide a smoother and more consistent landscape
 
