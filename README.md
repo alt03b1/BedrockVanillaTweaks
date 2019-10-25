@@ -91,7 +91,25 @@ Borderless Snow - Surprisingly, this doesn't change any textures, also snow does
 
 ## Peace and Quiet
 
-coming soon
+[Quieter Dispensers and Droppers](https://www.dropbox.com/s/dqru5e1m26fwch6/q_disp_drop.mcpack?dl=0) - Makes Dispensers and Droppers quieter. Also affects menu clicks
+
+[Quieter Ghasts](https://www.dropbox.com/s/n09gz7zy4sk1348/q_ghast.mcpack?dl=0) - Makes Ghasts quieter
+
+[Quieter Minecarts](https://www.dropbox.com/s/ngdl8xmyimppmf5/q_minecart.mcpack?dl=0) - Makes Minecarts quieter
+
+[Quieter Villagers](https://www.dropbox.com/s/q3uzrbkobuzqx3i/q_villager.mcpack?dl=0) - Makes Villagers quieter
+
+[Quieter Fire](https://www.dropbox.com/s/ce7g9lpe1my23rh/q_fire.mcpack?dl=0) - Makes Fire quieter
+
+[Quieter Nether Portals](https://www.dropbox.com/s/c16d75w40wdal4x/q_portal.mcpack?dl=0) - Makes Nether Portals quieter
+
+[Quieter Water](https://www.dropbox.com/s/wsato77200g6u98/q_water.mcpack?dl=0) - Makes Flowing Water quieter
+
+[Quieter Endermen](https://www.dropbox.com/s/ifdlm6c05iv8qdh/q_endermen.mcpack?dl=0) - Makes Endermen quieter
+
+[Quieter Pistons](https://www.dropbox.com/s/hean689xz6o3wpa/q_piston.mcpack?dl=0) - Makes Pistone quieter
+
+[Quieter Cows](https://www.dropbox.com/s/u2yh6zs27ob305b/q_cows.mcpack?dl=0) - Makes Cows quieter
 
 ## Utility
 
