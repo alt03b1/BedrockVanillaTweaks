@@ -130,6 +130,5 @@ coming soon
 ## To-Do
 
 - make alternate versions on textures that arent compatible with other textures to make them compatible
-- add a project page
 - add previews of all tweaks
 - the rest of the tweaks
