@@ -132,3 +132,8 @@ coming soon
 - make alternate versions on textures that arent compatible with other textures to make them compatible
 - add previews of all tweaks
 - the rest of the tweaks
+
+
+```
+All picture assets belong to the Vanilla Tweaks Team.
+```
