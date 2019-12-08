@@ -27,6 +27,8 @@ Solid Slime - available when block models can be changed with add-ons
 
 [Sideways Nuggets](https://www.dropbox.com/s/e9sjzrktkvm9f2u/sideways_nuggets.mcpack?dl=0) - Rotates Iron Nuggets to be consistent with the other nugget textures
 
+[Softer Wool](https://www.dropbox.com/s/6lj0jp294h8losh/softer_wool.mcpack?dl=0) - Lowers the contrast and smoothens all wool blocks
+
 [Plain Leather Armor](https://www.dropbox.com/s/dlv1a4yeolu4utt/plain_leather_armor.mcpack?dl=0) - Removes brown stripes from colored Leather Armor
 
 [Red Iron Golem Flowers](https://www.dropbox.com/s/syt6m3frq7x7wl0/red_iron_golem_flowers.mcpack?dl=0) - Changes the yellow flowers on the Iron Golem skin to red ones
@@ -89,6 +91,14 @@ Borderless Snow - Surprisingly, this doesn't change any textures, also snow does
 
 [Shorter Tall Grass](https://www.dropbox.com/s/dettbeisxephrw9/short_tgrass.mcpack?dl=0) - Makes Tall Grass slightly shorter
 
+## Variation
+
+Uses optifine in original version, can't be done yet
+
+## Connected Textures
+
+Uses optifine in original version, can't be done yet
+
 ## Peace and Quiet
 
 [Quieter Dispensers and Droppers](https://www.dropbox.com/s/dqru5e1m26fwch6/q_disp_drop.mcpack?dl=0) - Makes Dispensers and Droppers quieter. Also affects menu clicks
@@ -119,6 +129,10 @@ coming soon
 
 Ccoming soon
 
+## 3D
+
+Changes item models, can't be done yet
+
 ## HUD
 
 coming soon
@@ -126,6 +140,16 @@ coming soon
 ## GUI
 
 coming soon
+
+## Options Background
+
+coming soon
+
+## Retro
+
+coming soon
+
+
 
 ## To-Do
 
