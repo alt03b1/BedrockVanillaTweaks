@@ -123,7 +123,25 @@ Uses optifine in original version, can't be done yet
 
 ## Utility
 
-coming soon
+Age 25 Kelp - Uses Block NBT Data Detection, Not Possible
+
+Mine Progress Bar - WIP
+
+[Sticky Piston Sides](https://www.dropbox.com/s/2hn9ut25w0k6bej/sticky_sides.mcpack?dl=0) - Displays Slime on sides of Sticky Pistons to allow differentiation.
+
+Directional Hoppers - Uses Block NBT Data Detection, Not Possible
+
+Diminishing Tools - Uses Item NBT Data Detection, Not Possible
+
+Better Observers - Uses Block NBT Data Detection, Not Possible
+
+[Clean Redstone Dust](https://www.dropbox.com/s/5q7ba59go7slrsy/clean_dust.mcpack?dl=0) - Changed texture of Redstone Dust to a solid line
+
+Alternate Block Destruction - WIP
+
+Redstone Power Levels - Uses Block NBT Data Detection, Not Possible
+
+[Visible Tripwires](https://www.dropbox.com/s/9snpmqxmw2m1khp/visible_tripwires.mcpack?dl=0) - Makes Tripwires bright blue
 
 ## Unobtrusive 
 
