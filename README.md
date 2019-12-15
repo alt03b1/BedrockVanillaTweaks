@@ -145,7 +145,9 @@ Redstone Power Levels - Uses Block NBT Data Detection, Not Possible
 
 ## Unobtrusive 
 
-Ccoming soon
+[Unobtrusive Rain](https://www.dropbox.com/s/ywffv79yoi6sjhy/unob_rain.mcpack?dl=0) - Makes Rain clearer to allow for better visibility
+
+[Unobtrusive Scaffolding](https://www.dropbox.com/s/hi2f8o21zjswqjk/unob_scaff.mcpack?dl=0) - Creates a hole in the top of scaffolds
 
 ## 3D
 
@@ -156,10 +158,6 @@ Changes item models, can't be done yet
 coming soon
 
 ## GUI
-
-coming soon
-
-## Options Background
 
 coming soon
 
