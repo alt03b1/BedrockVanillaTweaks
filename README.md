@@ -3,8 +3,6 @@ Vanilla Tweaks Ported to Bedrock!
 
 ![Logo](BVTlogo.png)
 
-(not an official logo)
-
 ## How To Download
 
 - Tap on the name of the tweak you'd like to download. (only blue ones have a link attached to them, the rest have an explanation as to why they aren't available)
