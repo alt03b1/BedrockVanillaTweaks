@@ -45,8 +45,6 @@ Endless End Rods - available when block models can be changed with add-ons
 
 [Brighter Nether](https://www.dropbox.com/s/hyqqsiucez17cwm/brighter_nether.mcpack?dl=0) - Brightens the texture of blocks commonly found in the Nether (_Not Compatible With: Black Nether Bricks_)
 
-Borderless Snow - Surprisingly, this doesn't change any textures, also snow doesn't have any borders. If anyone knows what this does please let me know.
-
 [Circular Sun and Moon](https://www.dropbox.com/s/iq0pttamr2wqm11/circular_sumoon.mcpack?dl=0) - Replaces the default square sun and moon, with a circular sun and moon
 
 [Clearer Water](https://www.dropbox.com/s/ubrz8kmta6wdnms/clearer_water.mcpack?dl=0) - Makes water clearer
