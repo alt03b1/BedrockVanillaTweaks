@@ -21,6 +21,8 @@ Vanilla Tweaks Ported to Bedrock!
 
 [Unbundled Hay Bales](https://www.dropbox.com/s/d5i8lnnj1tug1bn/unbundled_hay_bales.mcpack?dl=0) - Gets rid of the red strings around Hay Bales
 
+Solid Honey - available when block models can be changed with add-ons
+
 Solid Slime - available when block models can be changed with add-ons
 
 [Sideways Nuggets](https://www.dropbox.com/s/e9sjzrktkvm9f2u/sideways_nuggets.mcpack?dl=0) - Rotates Iron Nuggets to be consistent with the other nugget textures
