@@ -147,7 +147,7 @@ Redstone Power Levels - Uses Block NBT Data Detection, Not Possible
 
 [Unobtrusive Scaffolding](https://www.dropbox.com/s/hi2f8o21zjswqjk/unob_scaff.mcpack?dl=0) - Creates a hole in the top of scaffolds
 
-Transparent Shields - Working in inventory, not when holding in hand though
+[Transparent Shields](https://www.dropbox.com/s/mpivxo73rcogjmi/trans_shield.mcpack?dl=0) - Makes Shield transparent - Working in inventory, not when holding in hand though
 
 [Borderless Glass](https://www.dropbox.com/s/95sa18ijeuq8wtx/borderless_glass.mcpack?dl=0) - Removes Borders from Glass
 
