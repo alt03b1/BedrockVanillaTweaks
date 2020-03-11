@@ -17,27 +17,7 @@ Check [Wiki](https://github.com/jcbvns/BedrockVanillaTweaks/wiki/Aesthetic)
 
 ## Terrain
 
-[Better Bedrock](https://www.dropbox.com/s/aqb8sz578sou4vv/better_bedrock.mcpack?dl=0) - Makes Bedrock less noisy and more natural-looking
-
-[Brighter Nether](https://www.dropbox.com/s/hyqqsiucez17cwm/brighter_nether.mcpack?dl=0) - Brightens Nether blocks
-
-[Circular Sun and Moon](https://www.dropbox.com/s/iq0pttamr2wqm11/circular_sumoon.mcpack?dl=0) - Replaces the default square sun and moon, with a circular sun and moon
-
-[Clearer Water](https://www.dropbox.com/s/ubrz8kmta6wdnms/clearer_water.mcpack?dl=0) - Makes water clearer
-
-[Smoother Oak Log](https://www.dropbox.com/s/souixd2oxb54tl3/smooth_oak_log.mcpack?dl=0) - Makes Oak Log texture less sharp
-
-[Smoother Stones](https://www.dropbox.com/s/7yqcmh4cee0lm0s/smooth_stones.mcpack?dl=0) - Makes Diorite and Granite textures less noisy and more tolerable
-
-[Pebble-less Coarse Dirt](https://www.dropbox.com/s/tg74zkfpmisdkm2/nopebblecoarse.mcpack?dl=0) - Removes the white pebbles in Coarse Dirt
-
-[Pebble-less Dirt](https://www.dropbox.com/s/moie8kjiqrzr49b/nopebbledirt.mcpack?dl=0) - Removes the white pebbles in Dirt
-
-[Ore Borders](https://www.dropbox.com/s/nvz9g14g3vdins0/ore_borders.mcpack?dl=0) - Places a border around ores
-
-[Uniform Ores](https://www.dropbox.com/s/bvzzoehd8w2hx2m/uniform_ores.mcpack?dl=0) - Changes the Lapis, Emerald, and Quartz ores to have the same shape as the rest of the ores
-
-[Whiter Snow](https://www.dropbox.com/s/sokwtovx3vhza0d/white_snow.mcpack?dl=0) - Removes the blue tint from snow
+Check [Wiki](https://github.com/jcbvns/BedrockVanillaTweaks/wiki/Terrain)
 
 ## Lower and Sides
 
