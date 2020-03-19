@@ -13,10 +13,7 @@ Vanilla Tweaks Ported to Bedrock!
 
 ## [Aesthetic](https://github.com/jcbvns/BedrockVanillaTweaks/blob/master/aesthetic.md)
 
-
-## Terrain
-
-Check [Wiki](https://github.com/jcbvns/BedrockVanillaTweaks/wiki/Terrain)
+## [Terrain](https://github.com/jcbvns/BedrockVanillaTweaks/blob/master/terrain.md)
 
 ## Lower and Sides
 
