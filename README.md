@@ -3,14 +3,6 @@ Vanilla Tweaks Ported to Bedrock!
 
 ![Logo](BVTlogo.png)
 
-## How To Download
-
-- Tap on the name of the tweak you'd like to download. (only blue ones have a link attached to them, the rest have an explanation as to why they aren't available)
-- The name will take you to a dropbox link, if prompted, continue to the website instead of the app
-- From there choose direct download and open the .mcpack file in Minecraft
-- Pay attention to which tweaks arent compatible with each other!
-- Profit
-
 ## [Aesthetic](https://github.com/jcbvns/BedrockVanillaTweaks/blob/master/aesthetic.md)
 
 ## [Terrain](https://github.com/jcbvns/BedrockVanillaTweaks/blob/master/terrain.md)
