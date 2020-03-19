@@ -11,9 +11,8 @@ Vanilla Tweaks Ported to Bedrock!
 - Pay attention to which tweaks arent compatible with each other!
 - Profit
 
-## Aesthetic
+## [Aesthetic](https://github.com/jcbvns/BedrockVanillaTweaks/blob/master/aesthetic.md)
 
-Check [Wiki](https://github.com/jcbvns/BedrockVanillaTweaks/wiki/Aesthetic)
 
 ## Terrain
 
