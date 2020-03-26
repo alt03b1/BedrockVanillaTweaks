@@ -137,6 +137,8 @@ WIP
 
 coming soon
 
+## [Fun](https://github.com/jcbvns/BedrockVanillaTweaks/blob/master/fun.md)
+
 ```
 All picture assets belong to the Vanilla Tweaks Team.
 .mcpacks that are not mine are credited
