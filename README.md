@@ -7,31 +7,7 @@ Vanilla Tweaks Ported to Bedrock!
 
 ## [Terrain](https://github.com/jcbvns/BedrockVanillaTweaks/blob/master/terrain.md)
 
-## Lower and Sides
-
-[Grass Sides](https://www.dropbox.com/s/7iukkl5w0n91dvd/grass_sides.mcpack?dl=1) - Completely covers the sides of Grass Blocks to provide a smoother and greener landscape
-
-[Lower Grass](https://www.dropbox.com/s/s202r60deao8zi5/lower_grass.mcpack?dl=1) - Lowers the sides of Grass Blocks to provide a smoother and greener landscape
-
-[Mycelium Sides](https://www.dropbox.com/s/fmos8n7w4n99416/mycelium_sides.mcpack?dl=1) - Completely covers the sides of Mycelium Blocks to provide a smoother and more consistent landscape
-
-[Lower Mycelium](https://www.dropbox.com/s/y7fm3du2fc7opp2/lower_mycelium.mcpack?dl=1) - Lowers the sides of Mycelium Blocks to provide a smoother and more consistent landscape
-
-[Path Sides](https://www.dropbox.com/s/9zun8b5dpexpj81/path_sides.mcpack?dl=1) - Completely covers the sides of Path Blocks to provide a smoother-looking pathway
-
-[Lower Paths](https://www.dropbox.com/s/7tgxqfiaonnm1dz/lower_paths.mcpack?dl=1) - Lowers the sides of Path Blocks to provide a smoother pathway
-
-[Podzol Sides](https://www.dropbox.com/s/dkubjxfz9ap5a3c/podzol_sides.mcpack?dl=1) - Completely covers the sides of Podzol Blocks to provide a smoother and more consistent landscape
-
-[Lower Podzol](https://www.dropbox.com/s/4xh5yfag43noyqe/lower_podzol.mcpack?dl=1) - Lowers the sides of Podzol Blocks to provide a smoother and more consistent landscape
-
-[Snow Sides](https://www.dropbox.com/s/ri2mvbwqk5zn8w5/snow_sides.mcpack?dl=1) - Completely covers the sides of Grass Blocks to provide a smoother and whiter snowy landscape
-
-[Lower Snow](https://www.dropbox.com/s/jn9pt15hkd0uv9h/lower_snow.mcpack?dl=1) - Lowers the sides of Grass Blocks to provide a smoother and whiter snowy landscape
-
-[Shorter Grass](https://www.dropbox.com/s/k2etd8toujbk3ha/short_grass.mcpack?dl=1) - Makes Grass slightly shorter
-
-[Shorter Tall Grass](https://www.dropbox.com/s/dettbeisxephrw9/short_tgrass.mcpack?dl=1) - Makes Tall Grass slightly shorter
+## [Lower and Sides](https://github.com/jcbvns/BedrockVanillaTweaks/blob/master/lowerandsides.md)
 
 ## Variation
 
@@ -41,27 +17,7 @@ Uses optifine in original version, can't be done yet
 
 Uses optifine in original version, can't be done yet
 
-## Peace and Quiet
-
-[Quieter Dispensers and Droppers](https://www.dropbox.com/s/dqru5e1m26fwch6/q_disp_drop.mcpack?dl=1) - Makes Dispensers and Droppers quieter. Also affects menu clicks
-
-[Quieter Ghasts](https://www.dropbox.com/s/n09gz7zy4sk1348/q_ghast.mcpack?dl=1) - Makes Ghasts quieter
-
-[Quieter Minecarts](https://www.dropbox.com/s/ngdl8xmyimppmf5/q_minecart.mcpack?dl=1) - Makes Minecarts quieter
-
-[Quieter Villagers](https://www.dropbox.com/s/q3uzrbkobuzqx3i/q_villager.mcpack?dl=1) - Makes Villagers quieter
-
-[Quieter Fire](https://www.dropbox.com/s/ce7g9lpe1my23rh/q_fire.mcpack?dl=1) - Makes Fire quieter
-
-[Quieter Nether Portals](https://www.dropbox.com/s/c16d75w40wdal4x/q_portal.mcpack?dl=1) - Makes Nether Portals quieter
-
-[Quieter Water](https://www.dropbox.com/s/wsato77200g6u98/q_water.mcpack?dl=1) - Makes Flowing Water quieter
-
-[Quieter Endermen](https://www.dropbox.com/s/ifdlm6c05iv8qdh/q_endermen.mcpack?dl=1) - Makes Endermen quieter
-
-[Quieter Pistons](https://www.dropbox.com/s/hean689xz6o3wpa/q_piston.mcpack?dl=1) - Makes Pistone quieter
-
-[Quieter Cows](https://www.dropbox.com/s/u2yh6zs27ob305b/q_cows.mcpack?dl=1) - Makes Cows quieter
+## [Peace and Quiet](https://github.com/jcbvns/BedrockVanillaTweaks/blob/master/peaceandquiet.md)
 
 ## Utility
 
