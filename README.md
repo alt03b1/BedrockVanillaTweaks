@@ -99,5 +99,4 @@ coming soon
 All picture assets belong to the Vanilla Tweaks Team.
 .mcpacks that are not mine are credited
 If you find any issues with any pack please don't hesitate to tell me
-If you find any packs that did what I couldnt do, please let me know and I'll add them to the list
 ```
