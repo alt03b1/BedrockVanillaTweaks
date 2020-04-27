@@ -1,8 +1,8 @@
-## [Aesthetic](https://github.com/jcbvns/BedrockVanillaTweaks/blob/master/aesthetic.md)
+## [Aesthetic](../texture_packs/aesthetic.md)
 
-## [Terrain](https://github.com/jcbvns/BedrockVanillaTweaks/blob/master/terrain.md)
+## [Terrain](../texture_packs/terrain.md)
 
-## [Lower and Sides](https://github.com/jcbvns/BedrockVanillaTweaks/blob/master/lowerandsides.md)
+## [Lower and Sides](../texture_packs/lowerandsides.md)
 
 ## Variation
 
@@ -12,9 +12,9 @@ Uses optifine in original version, can't be done yet
 
 Uses optifine in original version, can't be done yet
 
-## [Peace and Quiet](https://github.com/jcbvns/BedrockVanillaTweaks/blob/master/peaceandquiet.md)
+## [Peace and Quiet](../texture_packs/peaceandquiet.md)
 
-## [Utility](https://github.com/jcbvns/BedrockVanillaTweaks/blob/master/utility.md)
+## [Utility](../texture_packs/utility.md)
 
 ## Unobtrusive 
 
@@ -68,7 +68,11 @@ WIP
 
 coming soon
 
-## [Fun](https://github.com/jcbvns/BedrockVanillaTweaks/blob/master/fun.md)
+## [Fun](../texture_packs/fun.md)
+
+## Colorful Slime
+
+coming soon
 
 ```
 All picture assets belong to the Vanilla Tweaks Team.
