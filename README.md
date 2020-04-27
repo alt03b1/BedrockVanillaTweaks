@@ -3,7 +3,7 @@ Vanilla Tweaks Ported to Bedrock!
 
 ![Logo](BVTlogo.png)
 
-## [Texture Packs](https://github.com/alt03b1/BedrockVanillaTweaks/blob/master/texture_packs.md)
+## [Texture Packs](../blob/master/pages/texture_packs.md)
 
 - Texture Packs modify textures and sounds
 
