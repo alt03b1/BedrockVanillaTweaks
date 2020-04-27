@@ -16,41 +16,7 @@ Uses optifine in original version, can't be done yet
 
 ## [Utility](../texture_packs/utility.md)
 
-## Unobtrusive 
-
-[Unobtrusive Rain](https://www.dropbox.com/s/ywffv79yoi6sjhy/unob_rain.mcpack?dl=1) - Makes Rain clearer to allow for better visibility
-
-[Unobtrusive Scaffolding](https://www.dropbox.com/s/hi2f8o21zjswqjk/unob_scaff.mcpack?dl=1) - Creates a hole in the top of scaffolds
-
-[Transparent Shields](https://www.dropbox.com/s/mpivxo73rcogjmi/trans_shield.mcpack?dl=1) - Makes Shield transparent - Working in inventory, not when holding in hand though
-
-[Borderless Glass](https://www.dropbox.com/s/95sa18ijeuq8wtx/borderless_glass.mcpack?dl=1) - Removes Borders from Glass
-
-[Borderless Stained Glass](https://www.dropbox.com/s/2cnmaxhpoh65n0z/borderless_stglass.mcpack?dl=1) - Removes Borders from Stained Glass
-
-[Clean Glass](https://www.dropbox.com/s/t3th6jlh865bykb/clean_glass.mcpack?dl=1) - Removes Streaks from Glass
-
-[Clean Stained Glass](https://www.dropbox.com/s/9c2ef5lkwka1ajk/clean_stglass.mcpack?dl=1) - Removes Streaks from Stained Glass
-
-[Lower Fire](https://www.dropbox.com/s/lyq0z4ejfg1sx3y/lowerfire.mcpack?dl=1) - Lowers Fire
-
-[Lower Shield](https://www.curseforge.com/minecraft/mc-addons/search?search-shield) - Not mine, made by amybluesky on curseforge. Do not click on the link to the project page, you cant access the files from there, instead click download on the page that opens
-
-[Transparent Pumpkin](https://www.dropbox.com/s/q8bzbvf72t5zid9/trans_pump.mcpack?dl=1) - Increases visiblility when wearing Pumpkins
-
-[No Beacon Beam](https://www.dropbox.com/s/yrcw8nbwlb8j2qi/nobeacbeam.mcpack?dl=1) - Makes Beacon Beam Invisible
-
-[Clean Ice](https://www.dropbox.com/s/jhr9isltryyjkzc/clean_ice.mcpack?dl=1) - Gets rid of the bright white highlights on ice textures
-
-No Vignette - Bedrock doesn't have a vignette
-
-Cleaner World Border - Bedrock doesn't have a World Border
-
-[Alternate Enchant Glint](https://www.dropbox.com/s/ohyyzqajqhbaqtl/alt_ench_glint.mcpack?dl=1) - Changes the Enchantment Glint to me a sleaker streak
-
-[No Pumpkin Overlay](https://www.dropbox.com/s/uprqbj7rc561sx0/no_pump_over.mcpack?dl=1) - Removes Pumpkin Overlay
-
-Smaller Utilities - Uses item model data, not possible yet
+## [Unobtrusive](../texture_packs/unobtrusive.md)
 
 ## 3D
 
