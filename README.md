@@ -7,11 +7,11 @@ Vanilla Tweaks Ported to Bedrock!
 
 - Texture Packs modify textures and sounds
 
-## [Datapacks](../master/datapacks.md) - WIP
+## [Datapacks](../master/pages/datapacks.md) - WIP
 
 - Dont get too excited for this one, many of the packs aren't yet possible with the current bedrock engine
 
-## [Crafting Tweaks](../master/crafting_tweaks.md) - WIP
+## [Crafting Tweaks](../master/pages/crafting_tweaks.md) - WIP
 
 - Crafting Tweaks modify the crafting recipies of some blocks or items
 
