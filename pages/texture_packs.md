@@ -22,21 +22,21 @@ Uses optifine in original version, can't be done yet
 
 Changes item models, can't be done yet
 
-## HUD
+## [HUD](../texture_packs/hud.md)
 
-WIP
+coming soon
 
-## GUI
+## [GUI](../texture_packs/gui.md)
 
 [Dark Mode](mcpedl.com/dark-mode-resource-pack) - Not mine, but a good pack made by Offroaders123 on mcpedl
 
-## Retro
+## [Retro](../texture_packs/retro.md)
 
 coming soon
 
 ## [Fun](../texture_packs/fun.md)
 
-## Colorful Slime
+## [Colorful Slime](../texture_packs/colorful_slime.md)
 
 coming soon
 
