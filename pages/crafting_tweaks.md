@@ -25,7 +25,7 @@ Makes black dye and charcoal interchangable in recipes.
 
 Allows you to craft coal and charcoal into inc sacks.
 
-# [Craftable Gravel](https://www.dropbox.com/s/tfzh2rj2anneyvm/Craftable%20Gravel.mcpack?dl=1)
+# [Craftable Gravel](https://www.dropbox.com/s/muqoh6y3ble9n88/Craftable%20Gravel.mcpack?dl=1)
 
 Craft gravel with 4 Flint.
 
