@@ -15,6 +15,4 @@ Craft gravel with 4 Flint
 
 
 
-`If you find any issues please contact lithium-lx on github or lithium_llx on reddit.`
-
-`Otherwise contact alt03b1`
+`If you find any issues please contact lithium-lx on github or lithium_llx on reddit. Otherwise contact alt03b1`
