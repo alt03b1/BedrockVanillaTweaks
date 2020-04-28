@@ -14,6 +14,7 @@ Vanilla Tweaks Ported to Bedrock!
 ## [Crafting Tweaks](../master/pages/crafting_tweaks.md) - WIP
 
 - Crafting Tweaks modify the crafting recipies of some blocks or items
+- Will be completed hopefully in the next days
 
 ```
 All picture assets belong to the Vanilla Tweaks Team.
