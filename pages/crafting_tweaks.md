@@ -9,7 +9,7 @@ You need to have experimental features on to play with crafting tweaks
 
 Makes you craft 12 Trapdoors instead of 2 (works all log types).
 
-# 4 Bark Blocks
+# [4 Bark Blocks](https://www.dropbox.com/s/agcosm7q75jkv1g/4%20Bark%20Blocks.mcpack?dl=1)
 
 You'll get 4 Bark Bloks instead of 3.
 
