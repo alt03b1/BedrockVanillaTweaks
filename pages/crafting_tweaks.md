@@ -9,6 +9,12 @@
 
 Makes you craft 12 Trapdoors instead of 2 (works all log types)
 
+# [Craftable Gravel](https://www.dropbox.com/s/tfzh2rj2anneyvm/Craftable%20Gravel.mcpack?dl=1)
+
+Craft gravel with 4 Flint
+
+
+
 `If you find any issues please contact lithium-lx on github or lithium_llx on reddit.`
 
 `Otherwise contact alt03b1`
