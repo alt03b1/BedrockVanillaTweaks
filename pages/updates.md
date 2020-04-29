@@ -1,3 +1,4 @@
+# NOT PUBLIC
 # Updates on Vanilla Tweaks in Minecraft Bedrock
 On this Page we want to update you on the progress(when new things come out) and the current status(what is plannded).
 ## Who are *we*?
