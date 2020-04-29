@@ -20,6 +20,7 @@ Allows you to craft full blocks form stairs and slabs.
 # Black dye with charcoal
 
 Makes black dye and charcoal interchangable in recipes.
+**(Uses Tags, not possible in bedrock yet.)**
 
 # Coal to Ink Sacks
 
@@ -80,7 +81,7 @@ Allows you to break down nether wart blocks into 9 nether wart.
 # Universal Dying
 
 (Allows you to dye any dyeable block to another colour, no matter what colour it is (does not include Wool and Concrete).)
-**Does not work in the current bedrock versions, but we think it will get added soon.**
+**(Uses Tags, not possible in bedrock yet.)**
 
 # Wool to String
 
