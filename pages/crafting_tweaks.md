@@ -13,9 +13,9 @@ Makes you craft 12 Trapdoors instead of 2 (works all log types).
 
 You'll get 4 Bark Bloks instead of 3.
 
-# Back to Blocks
+# [Back to Blocks](https://www.dropbox.com/s/cwl1iuzlql2x3os/Back%20to%20Blocks%28slabs%20only%29.mcpack?dl=1)
 
-Allows you to craft full blocks form stairs and slabs.
+Allows you to craft full blocks form stairs and slabs. (currently only slabs)
 
 # Black dye with charcoal
 
