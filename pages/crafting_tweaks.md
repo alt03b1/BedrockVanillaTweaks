@@ -22,7 +22,7 @@ Allows you to craft full blocks form stairs and slabs.
 Makes black dye and charcoal interchangable in recipes.
 **(Uses Tags, not possible in bedrock yet.)**
 
-# Coal to Ink Sacks
+# [Coal to Ink Sacks](https://www.dropbox.com/s/v6a5aklfjntensz/Coal%20to%20Ink%20Sacs.mcpack?dl=1)
 
 Allows you to craft coal and charcoal into inc sacks.
 
