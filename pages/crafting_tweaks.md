@@ -32,7 +32,7 @@ Craft gravel with 4 Flint.
 
 # Double Slab crafting
 
-Allows you to craft 2 Slabs form a single block.
+Allows you to craft 2 Slabs form a single block.(Will be committed after all the other ones.)
 
 # Dropper to Dispenser
 
@@ -54,13 +54,13 @@ You'll create 8 instead of 4 Stairs.
 
 ## Version B
 
-Allows you to craft coral blocks from their coral plant in a 2x2. But both tubes and fans cannot be used interchangably. In Version B you can change tubes into fans and the other way around by putting them into an crafting table/into the inventory crafting.
+Allows you to craft coral blocks from their coral plant in a 2x2. But both tubes and fans cannot be used interchangably. In Version B you can change tubes into fans and the other way around by putting them into an crafting table/into the inventory crafting. (After Tags are being added to the game, this will be updated to the vanilla tweaks original)
 
 # Renewable Coral Blocks 3x3 Version A
 
 ## Version B
 
-Allows you to craft coral blocks from their coral plant in a 3x3. But both tubes and fans cannot be used interchangably. In Version B you can change tubes into fans and the other way around by putting them into an crafting table/into the inventory crafting.
+Allows you to craft coral blocks from their coral plant in a 3x3. But both tubes and fans cannot be used interchangably. In Version B you can change tubes into fans and the other way around by putting them into an crafting table/into the inventory crafting. (After Tags are being added to the game, this will be updated to the vanilla tweaks original)
 
 # Rotten Flesh into Leather
 
