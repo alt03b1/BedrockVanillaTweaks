@@ -42,11 +42,11 @@ Allows you to convert a dropper to a dispenser using a bow, or by using string a
 
 Allows you to craft Horse Armor.
 
-# More Bricks Crafting(next one)
+# [More Bricks Crafting](https://www.dropbox.com/s/k3k5k9u98qp6kpb/more_bricks_crafting.mcpack?dl=1)
 
 Creates 4 instead of 1 Brick Block.
 
-# More Stairs Crafting
+# More Stairs Crafting(next one)
 
 You'll create 8 instead of 4 Stairs.
 
@@ -74,7 +74,7 @@ Allows you to dye sandstone with red dye to get red sandstone(1x Dye, 2x Sandsto
 
 Allows you to break down ice into 9 pieces. 1 Blue Ice to 9 Packed Ice to 81 Ice.
 
-# Uncraftable Nether Wart Block
+# [Uncraftable Nether Wart Block](https://www.dropbox.com/s/1733totibaynp1k/uncraftable_nether_wart_block.mcpack?dl=1)
 
 Allows you to break down nether wart blocks into 9 nether wart.
 
