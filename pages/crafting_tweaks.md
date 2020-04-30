@@ -34,11 +34,11 @@ Craft gravel with 4 Flint.
 
 Allows you to craft 2 Slabs form a single block.(Will be committed after all the other ones.)
 
-# Dropper to Dispenser
+# [Dropper to Dispenser](https://www.dropbox.com/s/2jmnukb80mcr7it/droppers_to_dispensers.mcpack?dl=1)
 
 Allows you to convert a dropper to a dispenser using a bow, or by using string and sticks.
 
-# Equestrian Crafting
+# Equestrian Crafting(Next one)
 
 Allows you to craft Horse Armor.
 
