@@ -38,11 +38,11 @@ Allows you to craft 2 Slabs form a single block.(Will be committed after all the
 
 Allows you to convert a dropper to a dispenser using a bow, or by using string and sticks.
 
-# Equestrian Crafting(Next one)
+# [Equestrian Crafting](https://www.dropbox.com/s/7w6ba5xhklwymfx/equestrian_crafting.mcpack?dl=1)
 
 Allows you to craft Horse Armor.
 
-# More Bricks Crafting
+# More Bricks Crafting(next one)
 
 Creates 4 instead of 1 Brick Block.
 
