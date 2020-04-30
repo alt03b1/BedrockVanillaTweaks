@@ -87,7 +87,7 @@ Allows you to break down nether wart blocks into 9 nether wart.
 
 Allows you to craft wool into 4 strings.
 
-# Craftable Notch Apples
+# [Craftable Notch Apples](https://www.dropbox.com/s/syp7xz10u2nx69a/craftable_notch_apples.mcpack?dl=1)
 
 Allows you to craft Notch Apples like in the old days.
 
