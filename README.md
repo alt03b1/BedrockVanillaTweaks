@@ -7,18 +7,23 @@ Vanilla Tweaks Ported to Bedrock!
 
 - Texture Packs modify textures and sounds
 
+## Back on developement!
+I(lithium) will now again collaborate on this project! Stay tuned for the Datapack and Crafting Tweaks!
+I took a little break from bedrock developement and worked on other projects. I hope you didn't forget we are still there.
+
 ## [Datapacks](../master/pages/datapacks.md) - WIP
 
 - Dont get too excited for this one, many of the packs aren't yet possible with the current bedrock engine
 - But some will be definitely added
+- Expected finish date: early 2021
 
 ## [Crafting Tweaks](../master/pages/crafting_tweaks.md)
 
 - Crafting Tweaks modify the crafting recipies of some blocks or items
-- Will be completed hopefully in the next few weeks. :)
+- Expected finish date: late summer
 
 ```
 All picture assets belong to the Vanilla Tweaks Team.
-.mcpacks that are not mine are credited
-If you find any issues with any pack please don't hesitate to tell me
+.mcpacks that are not ours are credited
+If you find any issues with any pack please don't hesitate to tell us
 ```
