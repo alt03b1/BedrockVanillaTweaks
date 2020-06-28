@@ -1,4 +1,4 @@
-## [Aesthetic](../texture_packs/aesthetic.md)
+## [Aesthetic](../texture_packs/aesthetic.md) - Updated for 1.16!
 
 ## [Terrain](../texture_packs/terrain.md)
 
