@@ -2,7 +2,7 @@
 
 To download a pack, press the name of the tweak you would like to download
 
-## [Black Nether Bricks](https://www.dropbox.com/s/hxtdahhn2mt4j9b/bl_ne_br.mcpack?dl=1)
+## [Black Nether Bricks](https://www.dropbox.com/s/n9uiimee7hoa6lg/bl_ne_br.mcpack?dl=1)
 
 ![bnbi](https://vanillatweaks.net/assets/resources/icons/resourcepacks/1.15/BlackNetherBricks.png?v1) ![bnbp](https://vanillatweaks.net/assets/resources/previews/resourcepacks/1.15/BlackNetherBricks.png?v1)
 
