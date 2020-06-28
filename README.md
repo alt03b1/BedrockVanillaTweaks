@@ -15,12 +15,10 @@ I took a little break from bedrock developement and worked on other projects. I 
 
 - Dont get too excited for this one, many of the packs aren't yet possible with the current bedrock engine
 - But some will be definitely added
-- Expected finish date: early 2021
 
 ## [Crafting Tweaks](../master/pages/crafting_tweaks.md)
 
 - Crafting Tweaks modify the crafting recipies of some blocks or items
-- Expected finish date: late summer
 
 ```
 All picture assets belong to the Vanilla Tweaks Team.
