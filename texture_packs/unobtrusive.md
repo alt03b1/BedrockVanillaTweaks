@@ -52,11 +52,11 @@ Removes Streaks from Stained Glass
 
 Lowers Fire
 
-## [Lower Shield](https://www.curseforge.com/minecraft/mc-addons/search?search-shield)
+## [Lower Shield](https://www.curseforge.com/minecraft/mc-addons/lower-shield-by-amybluesky/files)
 
 ![9i](https://vanillatweaks.net/assets/resources/icons/resourcepacks/1.15/LowerShield.png?v1) ![9p](https://vanillatweaks.net/assets/resources/previews/resourcepacks/1.15/LowerShield.png?v1)
 
-Not mine, made by amybluesky on curseforge. Do not click on the link to the project page, you cant access the files from there, instead click download on the page that opens
+Not mine, made by amybluesky on curseforge. Lowers the shield in your inventory to free up some screen space
 
 ## [Transparent Pumpkin](https://www.dropbox.com/s/q8bzbvf72t5zid9/trans_pump.mcpack?dl=1)
 
