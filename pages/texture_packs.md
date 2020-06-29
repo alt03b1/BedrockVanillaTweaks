@@ -5,7 +5,7 @@
 
 # [Terrain](../texture_packs/terrain.md) - Updated for 1.16!
 
-# [Lower and Sides](../texture_packs/lowerandsides.md)
+# [Lower and Sides](../texture_packs/lowerandsides.md) - Updated for 1.16!
 
 # Variation
 
