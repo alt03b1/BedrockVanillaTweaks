@@ -84,6 +84,8 @@ Makes Each Dye Different
 
 ![cnai](https://vanillatweaks.net/assets/resources/icons/resourcepacks/1.16/ClassicNetheriteArmor.png?v1) <img src="https://vanillatweaks.net/assets/resources/previews/resourcepacks/1.16/ClassicNetheriteArmor.png?v1" height="150">
 
+Makes Netherite Armor fit the style of the other armors
+
 ## Noteblock Banners
 
 Bedrock Noteblock does not have detectable blockstates for texture packs
