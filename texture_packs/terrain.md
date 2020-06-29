@@ -68,4 +68,4 @@ Changes the Lapis, Emerald, and Quartz ores to have the same shape as the rest o
 
 Removes the blue tint from snow
 
-`All Picture Assets Belong To The VanillaTweaks Team`
+All Picture Assets Belong To The VanillaTweaks Team
