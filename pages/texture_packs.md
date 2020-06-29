@@ -1,4 +1,5 @@
-## Note: Packs not updated for 1.16 make Zombified Piglin revert to the old Zombie Pigman model! Packs are in the process of being upgraded.
+## Note: Packs not updated for 1.16 make Zombified Piglin revert to the old Zombie Pigman model! Packs are in the process of being upgraded. 
+## If you are updating a pack, delete the old one
 
 # [Aesthetic](../texture_packs/aesthetic.md) - Updated for 1.16!
 
