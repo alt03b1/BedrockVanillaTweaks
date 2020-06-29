@@ -2,7 +2,7 @@
 
 # [Aesthetic](../texture_packs/aesthetic.md) - Updated for 1.16!
 
-# [Terrain](../texture_packs/terrain.md)
+# [Terrain](../texture_packs/terrain.md) - Updated for 1.16!
 
 # [Lower and Sides](../texture_packs/lowerandsides.md)
 
