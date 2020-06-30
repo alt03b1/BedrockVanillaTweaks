@@ -4,19 +4,19 @@ To download a pack, press the name of the tweak you would like to download
 
 ## [Black Nether Bricks](https://www.dropbox.com/s/n9uiimee7hoa6lg/bl_ne_br.mcpack?dl=1)
 
-![bnbi](https://vanillatweaks.net/assets/resources/icons/resourcepacks/1.15/BlackNetherBricks.png?v1) ![bnbp](https://vanillatweaks.net/assets/resources/previews/resourcepacks/1.15/BlackNetherBricks.png?v1)
+<img src="https://vanillatweaks.net/assets/resources/icons/resourcepacks/1.15/BlackNetherBricks.png?v1" width="64"> <img src="https://vanillatweaks.net/assets/resources/previews/resourcepacks/1.15/BlackNetherBricks.png?v1" width="260">
 
 Makes Nether Bricks Black
 
 ## [Cherry Picking](https://www.dropbox.com/s/e79vo64e3kfyv1d/che_pick.mcpack?dl=1)
 
-<img src="https://vanillatweaks.net/assets/resources/icons/resourcepacks/1.15/CherryPicking.png?v1" height="64"> ![cpp](https://vanillatweaks.net/assets/resources/previews/resourcepacks/1.15/CherryPicking.png?v1)
+<img src="https://vanillatweaks.net/assets/resources/icons/resourcepacks/1.15/CherryPicking.png?v1" height="64"> <img src="https://vanillatweaks.net/assets/resources/previews/resourcepacks/1.15/CherryPicking.png?v1" width="260">
 
 Removes large cherry from center of Cake
 
 ## [Different Stems](https://www.dropbox.com/s/1g09ya5ys7spqr2/diff_st.mcpack?dl=0) 
 
-<img src="https://vanillatweaks.net/assets/resources/icons/resourcepacks/1.15/DifferentStems.png?v1" height="64"> ![dfp](https://vanillatweaks.net/assets/resources/previews/resourcepacks/1.15/DifferentStems.png?v1)
+<img src="https://vanillatweaks.net/assets/resources/icons/resourcepacks/1.15/DifferentStems.png?v1" height="64"> <img src="https://vanillatweaks.net/assets/resources/previews/resourcepacks/1.15/DifferentStems.png?v1" width="260">
 
 Changes Melon and Pumpkin stems to make them more curvaceous and natural looking
 
