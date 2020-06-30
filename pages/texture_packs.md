@@ -15,9 +15,9 @@ Uses optifine in original version, can't be done yet
 
 Uses optifine in original version, can't be done yet
 
-# [Peace and Quiet](../texture_packs/peaceandquiet.md)
+# [Peace and Quiet](../texture_packs/peaceandquiet.md) - Updated for 1.16!
 
-# [Utility](../texture_packs/utility.md)
+# [Utility](../texture_packs/utility.md) - Updated for 1.16!
 
 # [Unobtrusive](../texture_packs/unobtrusive.md)
 
