@@ -60,7 +60,7 @@ Places a border around ores
 
 <img src="https://vanillatweaks.net/assets/resources/icons/resourcepacks/1.15/UniformOres.png?v1" height="64"> <img src="https://vanillatweaks.net/assets/resources/previews/resourcepacks/1.16/UniformOres.png?v1" height="150">
 
-Changes the Lapis, Emerald, and Quartz ores to have the same shape as the rest of the ores
+Makes all ores have the same shape
 
 ## [Whiter Snow](https://www.dropbox.com/s/b3vi2ggpdrtjjyj/white_snow.mcpack?dl=1)
 
