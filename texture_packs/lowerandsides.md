@@ -76,25 +76,25 @@ Lowers the sides of Crimson Nylium Blocks
 
 ## [Warped Nylium Sides](https://www.dropbox.com/s/4r4gu1nijr020dm/warp_sid.mcpack?dl=1) </h2>
 
-<img src="https://vanillatweaks.net/assets/resources/previews/resourcepacks/1.16/WarpedNyliumSides.png?v1" height="144">
+<img src="https://vanillatweaks.net/assets/resources/previews/resourcepacks/1.16/WarpedNyliumSides.png?v1" width="260">
 
 Completely covers the sides of Warped Nylium Blocks
 
 ## [Lower Warped Nylium](https://www.dropbox.com/s/5z1xjkk5nkxvhoo/low_warp.mcpack?dl=1) </h2>
 
-<img src="https://vanillatweaks.net/assets/resources/previews/resourcepacks/1.16/LowerWarpedNylium.png?v1" height="144">
+<img src="https://vanillatweaks.net/assets/resources/previews/resourcepacks/1.16/LowerWarpedNylium.png?v1" width="260">
 
 Lowers the sides of Warped Nylium Blocks
 
 ## [Shorter Grass](https://www.dropbox.com/s/k2etd8toujbk3ha/short_grass.mcpack?dl=1) </h2>
 
-<img src="https://vanillatweaks.net/assets/resources/previews/resourcepacks/1.15/ShorterGrass.png?v1" height="101">
+<img src="https://vanillatweaks.net/assets/resources/previews/resourcepacks/1.15/ShorterGrass.png?v1" width="260">
 
 Makes Grass slightly shorter
 
 ## [Shorter Tall Grass](https://www.dropbox.com/s/dettbeisxephrw9/short_tgrass.mcpack?dl=1) </h2>
 
-<img src="https://vanillatweaks.net/assets/resources/previews/resourcepacks/1.15/ShorterTallGrass.png?v1" height="150">
+<img src="https://vanillatweaks.net/assets/resources/previews/resourcepacks/1.15/ShorterTallGrass.png?v1" width="260">
 
 Makes Tall Grass slightly shorter
 
