@@ -64,13 +64,13 @@ Lowers the sides of snowed-on Grass Blocks
 
 ## [Crimson Nylium Sides](https://www.dropbox.com/s/q9zm184r4inrje5/crim_sid.mcpack?dl=1) </h2>
 
-<img src="https://vanillatweaks.net/assets/resources/previews/resourcepacks/1.16/CrimsonNyliumSides.png?v1" height="144">
+<img src="https://vanillatweaks.net/assets/resources/previews/resourcepacks/1.16/CrimsonNyliumSides.png?v1" width="260">
 
 Completely covers the sides of Crimson Nylium Blocks
 
 ## [Lower Crimson Nylium](https://www.dropbox.com/s/wbd2mr2ls7ejgt9/low_crim.mcpack?dl=1) </h2>
 
-<img src="https://vanillatweaks.net/assets/resources/previews/resourcepacks/1.16/LowerCrimsonNylium.png?v1" height="144">
+<img src="https://vanillatweaks.net/assets/resources/previews/resourcepacks/1.16/LowerCrimsonNylium.png?v1" width="260">
 
 Lowers the sides of Crimson Nylium Blocks
 
