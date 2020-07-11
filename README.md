@@ -1,6 +1,9 @@
 # BedrockVanillaTweaks
 Vanilla Tweaks Ported to Bedrock!
 
+# NOTE:
+We know that a lot of the packs aren't working. We are currently updating the texturepacks to work with 1.16. Sorry for the inconvenience.
+
 ![Logo](BVTlogo.png)
 
 # [Texture Packs](../master/pages/texture_packs.md)
