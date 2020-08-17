@@ -22,6 +22,8 @@ They should have downloaded automatically, if not, there should be a download bu
 # Step 2
 ## Installing the pack to MCBE
 
+##### Important for Windows users! Skip this step if you want, but if you don't know how to install the pack to MCBE, right-click the .mcpack file and choose Open With option. If the file icon looks like a blank paper with folded a little bit on the side, you can left-click it if you want to. Next thing you want to do is choose Minecraft in Open With option.
+
 If your OS does *not* support the feature that lets you to open files with specific applications, I suggest you one app that I use to open .mcpack files with Minecraft.
 You cannot open files like these in Minecraft. *[research needed]*
 
