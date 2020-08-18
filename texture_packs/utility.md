@@ -48,7 +48,7 @@ WIP
 
 Makes placed String easier to see
 
-## [Brewing Giude](https://www.dropbox.com/s/7m80z7nn1ywrit8/brew_guide.mcpack?dl=0)
+## [Brewing Guide](https://www.dropbox.com/s/7m80z7nn1ywrit8/brew_guide.mcpack?dl=0)
 
 <img src="https://vanillatweaks.net/assets/resources/icons/resourcepacks/1.16/BrewingGuide.png?v1" height="64"> <img src="https://vanillatweaks.net/assets/resources/previews/resourcepacks/1.16/BrewingGuide.png?v1" width="260">
 
