@@ -19,6 +19,10 @@ We know that a few of the packs aren't working. We are currently updating the te
 
 - Crafting Tweaks modify the crafting recipies of some blocks or items
 
+# [Tutorials on how to install a .mcpack file](./TUTORIAL.md)
+
+- Confused? Don't know how .mcpacks work or how to install them? This tutorial is simply made for you!
+
 ```
 All picture assets belong to the Vanilla Tweaks Team.
 .mcpacks that are not ours are credited
