@@ -62,7 +62,7 @@ Allows you to craft coral blocks from their coral plant in a 2x2. But both tubes
 
 Allows you to craft coral blocks from their coral plant in a 3x3. But both tubes and fans cannot be used interchangably. In Version B you can change tubes into fans and the other way around by putting them into an crafting table/into the inventory crafting. (After Tags are being added to the game, this will be updated to the vanilla tweaks original)
 
-# Rotten Flesh into Leather
+# [Rotten Flesh into Leather](https://gofile.io/d/N0jBLV)
 
 Allows you to smelt rotten flesh into leather.
 
@@ -83,7 +83,7 @@ Allows you to break down nether wart blocks into 9 nether wart.
 (Allows you to dye any dyeable block to another colour, no matter what colour it is (does not include Wool and Concrete).)
 **(Uses Tags, not possible in bedrock yet.)**
 
-# Wool to String
+# [Wool to String](https://gofile.io/d/1t56XZ)
 
 Allows you to craft wool into 4 strings.
 
