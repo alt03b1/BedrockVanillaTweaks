@@ -70,7 +70,7 @@ Allows you to smelt rotten flesh into leather.
 
 Allows you to dye sandstone with red dye to get red sandstone(1x Dye, 2x Sandstone = 2x Red Sandstone).
 
-# Uncraftable Ice
+# [Uncraftable Ice](https://gofile.io/d/beg3ii)
 
 Allows you to break down ice into 9 pieces. 1 Blue Ice to 9 Packed Ice to 81 Ice.
 
@@ -91,7 +91,7 @@ Allows you to craft wool into 4 strings.
 
 Allows you to craft Notch Apples like in the old days.
 
-# Craftable Name Tags
+# [Craftable Name Tags](https://gofile.io/d/N2YVan)
 
 Allows you to craft Name Tags
 
