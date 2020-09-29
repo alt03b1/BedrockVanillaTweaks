@@ -2,7 +2,9 @@
 Vanilla Tweaks Ported to Bedrock!
 
 # NOTE:
-We know that a few of the packs aren't working. We are currently updating the texturepacks to work with 1.16. Sorry for the inconvenience.
+I'm very sorry to say this, but the project is currently on halt. Me and alt don't really have the motivation right now, but we aren't saying thats the end. Just a break. All packs will still be there.
+
+Thank you, Lithium
 
 ![Logo](BVTlogo.png)
 
