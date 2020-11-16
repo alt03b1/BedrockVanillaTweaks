@@ -1,11 +1,6 @@
 # BedrockVanillaTweaks
 Vanilla Tweaks Ported to Bedrock!
 
-# NOTE:
-I'm very sorry to say this, but the project is currently on halt. Me and alt don't really have the motivation right now, but we aren't saying thats the end. Just a break. All packs will still be there.
-
-Thank you, Lithium
-
 ![Logo](BVTlogo.png)
 
 # [Texture Packs](../master/pages/texture_packs.md)
